@@ -1,11 +1,5 @@
-rocker/hadleyverse
+wahani/dyn_doc
 ==================
 
-[![Circle CI](https://circleci.com/gh/rocker-org/hadleyverse.svg?style=svg)](https://circleci.com/gh/rocker-org/hadleyverse)
-
-See the [rocker-org Wiki](https://github.com/rocker-org/rocker/wiki/)
-for details on use and development of this Docker image.
-
-Please visit the source repository for comments, bug reports, or feature
-requests. The DockerHub comment feature is rather limited and provides
-no notifications, making it poorly suited for this role.
+This is a repo for creating a docker container I use for creating documents.
+See [rocker](https://github.com/rocker-org/rocker/) for the project from where I started
